@@ -1,0 +1,20 @@
+{
+  "name": "midterm_ho1_pokemon_front_end",
+  "version": "1.0.0",
+  "description": "Add comparison here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aagdv/MIDTERM_HO1_POKEMON_FRONT_END.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aagdv/MIDTERM_HO1_POKEMON_FRONT_END/issues"
+  },
+  "homepage": "https://github.com/aagdv/MIDTERM_HO1_POKEMON_FRONT_END#readme"
+}
